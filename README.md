@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 <h3 align="center">Passionate about code. Still in the early chapters.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bartkw122&label=Profile%20views&color=0e75b6&style=flat" alt="bartkw122" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bartkw122&label=Profile%20views&color=0e75b6&style=flat" alt="BartkW122" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bartkw122" alt="bartkw122" /></a> </p>
 
 - 🔭 I'm currently working on **[FirmaLead](https://github.com/Vicvip23/firmalead)** (React, Vite, TypeScript, Tailwind, Supabase, shadcn/ui) & **[PaintCS](https://github.com/Luckyillia/PaintCS)** (C#)
