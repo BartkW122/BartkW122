@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **[FirmaLead](https://github.com/Vicvip23/firmalead)** (React, Vite, TypeScript, Tailwind, Supabase, shadcn/ui) & **[PaintCS](https://github.com/Luckyillia/PaintCS)** (C#)
 - 🌱 I'm currently learning **Java, React & C#**
-- 📫 How to reach me **bartoszwiadernylodz@gmail.com**
+- 📫 How to reach me **bartek.contact.010@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
